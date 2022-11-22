@@ -1,0 +1,139 @@
+.b {
+    background-image: url("background.jpeg");
+    background-size: 100%;
+    background-position-y: -95.5px;
+}
+
+.i {
+    width: 120px;
+    margin-left: 40px;
+    margin-top: 14px;
+}
+
+.x {
+    list-style: none;
+    margin-top: -19px;
+    margin-left: 321px;
+
+}
+
+.z {
+    display: inline;
+    font-family: "Gotham";
+    color: white;
+    margin-left: 31px;
+    font-size: 13.5px;
+    font-weight: bold;
+
+
+
+}
+
+@font-face {
+    src: url("Gotham.woff2");
+    font-family: "Gotham";
+}
+
+.y {
+    margin-left: 1037px;
+    margin-top: -34px;
+}
+
+.p {
+    color: white;
+    font-family: "gotham";
+    margin-left: 592px;
+    margin-top: 70px;
+    font-size: 39px;
+    font-weight: bold;
+}
+
+.a {
+    width: 780px;
+    height: 100px;
+
+
+    margin-top: 371px;
+    margin-left: 200px;
+}
+
+.q {
+    list-style: none;
+
+
+
+}
+
+.q1 {
+    font-family: "gotham";
+    font-size: 27px;
+    color: white;
+    font-weight: bold;
+}
+
+.q2 {
+    font-family: "gotham";
+    color: white;
+    font-size: 12px;
+    margin-top: 7.8px;
+    margin-left: 12.9px;
+}
+
+.q3 {
+    font-family: "gotham";
+    color: white;
+    font-size: 12px;
+    margin-top: 7.8px;
+    margin-left: -2px;
+}
+
+.r {
+    display: inline-block;
+    margin-left: 80px;
+}
+
+.q4 {
+    font-family: "gotham";
+    color: white;
+    font-size: 12px;
+    margin-top: 7.8px;
+    margin-left: 5.3px;
+}
+
+.t {
+    margin-left: 614px;
+    margin-top: -53px;
+}
+
+.bt {
+    height: 40px;
+    width: 201px;
+    font-family: "gotham";
+    font-weight: bold;
+
+    color: white;
+    background-color: transparent;
+    border-width: 3px;
+    border-color: white;
+    border-style: solid;
+    border-radius: 3px;
+
+}
+
+.bt:hover {
+
+    background-color: rgba(130, 130, 130, 0.5);
+    background-color: white;
+    color: black;
+    transition-duration: 0.7s;
+    cursor: pointer;
+}
+
+.z:hover {
+    background-color: rgba(44, 44, 44, 0.075);
+    box-shadow: 0px 0px 0px 10px rgba(44, 44, 44, 0.075);
+    border-radius: 1px;
+    transition-duration: 0.3s;
+    cursor: pointer;
+
+}
