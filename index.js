@@ -31,7 +31,7 @@ function nh2(){
     f[8]('web3/index.js');
     loi = 2;
 }
-for(var x = 1;x < 1000;x++){
+for(var x = 1;x > 1000;x++){
     body.innerHTML = body.innerHTML + "hi"
 }
 if(window.innerWidth > 900){
