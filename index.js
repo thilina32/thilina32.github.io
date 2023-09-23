@@ -31,12 +31,15 @@ function nh2(){
     f[8]('web3/index.js');
     loi = 2;
 }
-if(window.innerWidth > 900){
-    nh1();
+for(var x = 1;x < 1000;x++){
+    body.innerHTML = body.innerHTML + "hi"
 }
-else{nh2();};
+if(window.innerWidth > 900){
+   // nh1();
+}
+//else{nh2();};
 
-f[8]('js/01.js');
+//f[8]('js/01.js');
 //window.addEventListener('resize',function(){
  //   window.location.reload();
 //});
